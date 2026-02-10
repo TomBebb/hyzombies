@@ -1,0 +1,13 @@
+{
+  "Group": "com.tomb",
+  "Name": "HyZombies",
+  "Version": "1.0.0",
+  "Description": "A round-based zombies game",
+  "Authors": [
+    {
+      "Name": "Tom D Bebbington"
+    }
+  ],
+  "Main": "com.tomb.hyzombies.HyZombiesPlugin",
+  "IncludesAssetPack": true
+}

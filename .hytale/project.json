@@ -1,0 +1,10 @@
+{
+  "groupId": "com.tomb",
+  "artifactId": "hyzombies",
+  "modName": "HyZombies",
+  "version": "1.0.0",
+  "buildSystem": "Gradle",
+  "language": "Kotlin",
+  "jarPath": "build/libs/hyzombies-1.0.0.jar",
+  "buildTask": "shadowJar"
+}
